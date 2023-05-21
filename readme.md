@@ -2,4 +2,4 @@
 
 ## Gravando mudanças no repositório
 
-Comando git push
+Comando git push após estar logado 
